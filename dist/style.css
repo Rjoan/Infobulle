@@ -1,0 +1,11 @@
+.tippy
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #222;
+    padding: 3px 10px;
+    font-size: 0.815em;
+    color: #FFF;
+    border-radius: 5px;
+}
